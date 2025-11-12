@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajat Deshmukh</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h1 align="left">Hi 👋, I'm Rajat Deshmukh</h1>
+<h3 align="left">A Passionate Backend Developer</h3>
 
 - 🌱 I’m currently learning **AWS, Cloud Technologies**
 
