@@ -10,14 +10,15 @@
 
 - 📫 How to reach me **rajatdeshmukh66@gmail.com**
 
-- 👨‍💻 See my portfolio at **[https://portfolio-6gmt.vercel.app/](https://portfolio-6gmt.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://portfolio-6gmt.vercel.app/](https://portfolio-6gmt.vercel.app/)**
 
-- 📄 Get my resume at **[ https://drive.google.com/file/d/1wpcor3V4JUeameD94pMjV0-j7Y8mVVas/view?usp=sharing]( https://drive.google.com/file/d/1wpcor3V4JUeameD94pMjV0-j7Y8mVVas/view?usp=sharing)**
+- 📄 Know about my experiences **[ https://drive.google.com/file/d/1wpcor3V4JUeameD94pMjV0-j7Y8mVVas/view?usp=sharing]( https://drive.google.com/file/d/1wpcor3V4JUeameD94pMjV0-j7Y8mVVas/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/rajat1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajat1903" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajat-deshmukh-264666280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-deshmukh-264666280" height="30" width="40" /></a>
-<a href="https://twitter.com/rajatd01" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:X_logo_2023_original.svg" alt="rajatd01" height="30" width="40" /></a>
+<a href="https://twitter.com/rajatd01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatd01" height="30" width="40" /></a>
 <a href="https://leetcode.com/user-null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user-null" height="30" width="40" /></a>
 </p>
 
